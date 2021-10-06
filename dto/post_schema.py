@@ -1,4 +1,4 @@
-index_page_fields = (
+post_fields = (
     'name',
     'email'
 )
